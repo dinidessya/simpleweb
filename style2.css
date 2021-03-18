@@ -1,0 +1,19 @@
+.jumbotron {
+	background-image: url(https://i.pinimg.com/originals/4e/4e/26/4e4e26cae6106d9c7dd6333083599553.png);
+	background-size: cover;
+	height:770px;
+	text-align: center;
+	margin-top:-120px;
+	color:#3B6F71;
+}
+
+.jumbotron .row {
+	margin-top: 170px;
+}
+
+.jumbotron .btn {
+	background-color:#5D888A; 
+	border: none;
+	border-radius:20px;
+	padding: 0 25px;
+}
